@@ -17,3 +17,4 @@ in the [ALBERT paper](https://arxiv.org/abs/1909.11942).
 # Release Notes
 
 * November 5, 2019: Initial version - [v1.0](https://github.com/SebiSebi/albert-tensorflow/releases/tag/v1.0).
+* November 15, 2019: version 1.1 - [v1.1](https://github.com/SebiSebi/albert-tensorflow/releases/tag/v1.1).

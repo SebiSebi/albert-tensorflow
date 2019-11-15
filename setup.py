@@ -11,7 +11,7 @@ assert(long_description is not None)
 
 setup(
     name='albert-tensorflow',
-    version='1.0',
+    version='1.1',
     description='ALBERT fork of https://github.com/google-research/google-research/tree/master/albert with package configuration',
     author='sebisebi',
     author_email='gpirtoaca@gmail.com',
